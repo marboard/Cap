@@ -11,4 +11,4 @@ As someone who does not want to rent the rest of their life, I wanted to create 
 
 Mitchell_Rosenfeld_Report - Written report of my process and findings. 
 
-Data - you can the data used [here](https://drive.google.com/drive/folders/1lrn8B1N89Nv0GT-WjMyCM4PhVS6tDYub?usp=sharing), or you can find the most updated dataset monthly through [Redfin](https://www.redfin.com/news/data-center/).
+Data - you can see the data used [here](https://drive.google.com/drive/folders/1lrn8B1N89Nv0GT-WjMyCM4PhVS6tDYub?usp=sharing), or you can find the most updated dataset monthly through [Redfin](https://www.redfin.com/news/data-center/).
